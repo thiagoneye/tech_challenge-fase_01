@@ -6,7 +6,7 @@ Este repositório contém a solução desenvolvida para o Tech Challenge da Fase
 
 ### Contexto
 
-Uma operadora de telecomunicações está perdendo clientes em ritmo acelerado. O objetivo deste projeto é construir um modelo preditivo de churn para classificar os clientes com risco de cancelamento, cobrindo desde a análise exploratória (EDA) até o servimento do modelo via API REST. O modelo campeão foi desenvolvido utilizando o ecossistema do Scikit-Learn e empacotado em uma arquitetura modular.
+Uma operadora de telecomunicações está perdendo clientes em ritmo acelerado. O objetivo deste projeto é construir um modelo preditivo de churn para classificar os clientes com risco de cancelamento, cobrindo desde a análise exploratória (EDA) até o servimento do modelo via API REST.
 
 ### Estrutura do Repositório
 
